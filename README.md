@@ -41,7 +41,7 @@ fn test_score_fail() {
     let required_score = 10; // wrong on purpose
     main(w1, w2, w3, public_modifier, required_score);
 }
-
+```
 
 ## ✅ Example Use Case
 
